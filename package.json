@@ -1,5 +1,5 @@
 {
-  "name": "wild-fire-899b",
+  "name": "yt-event-reminder",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -12,5 +12,12 @@
     "@cloudflare/workers-types": "^4.20240725.0",
     "typescript": "^5.5.2",
     "wrangler": "^3.60.3"
+  },
+  "dependencies": {
+    "@tsndr/cloudflare-worker-jwt": "^2.5.3",
+    "hono": "^4.5.3",
+    "query-string": "^9.1.0",
+    "worker-auth-providers": "0.0.13-beta.4",
+    "youtubei.js": "^10.2.0"
   }
 }
