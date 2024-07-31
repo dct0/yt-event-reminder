@@ -1,0 +1,22 @@
+{
+  "context": {
+    "client": {
+      "hl": "en",
+      "gl": "AU",
+      "clientName": "WEB",
+      "clientVersion": "2.20221215.04.01",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.125 Safari/537.36,gzip(gfe)",
+      "screenDensityFloat": "1.25",
+      "mainAppWebInfo": { "webDisplayMode": "WEB_DISPLAY_MODE_BROWSER" },
+      "memoryTotalKbytes": "8000000",
+      "connectionType": "CONN_CELLULAR_4G",
+      "browserName": "Chrome",
+      "browserVersion": "108.0.5359.125",
+      "osName": "Windows",
+      "osVersion": "10.0",
+      "platform": "DESKTOP"
+    },
+    "clientScreenNonce": "MC44NTkxMzQxMDMzMzA2Mzgx"
+  },
+  "params": "CgtJQXJlMHJwX0tRcyAAMgQIABAA"
+}
